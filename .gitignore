@@ -17,8 +17,4 @@ xcuserdata
 .svn
 CVS
 
-keats-static.esproj/*
-user.*.espressostorage
-Project.espressostorage
-keats-static.esproj/user.yoshokatana.espressostorage
-keats-static.esproj/Project.espressostorage
+*.esproj
