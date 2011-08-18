@@ -16,3 +16,8 @@ xcuserdata
 # svn & cvs
 .svn
 CVS
+
+keats-static.esproj/*
+user.*.espressostorage
+Project.espressostorage
+keats-static.esproj/user.yoshokatana.espressostorage
