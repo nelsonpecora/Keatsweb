@@ -1,0 +1,7 @@
+This CSS file is the uncompressed version of the one CSS used in the theme.
+
+This does not need installing, unless you want to customise more than the options in the dashboard.
+
+Please refer to the installation guide for more information.
+
+mikedidthis.
